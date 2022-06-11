@@ -55,7 +55,7 @@ console.log(gradient.passion(`
 }
 
 function check_token(token) {
-    setTitle(`Made by WntdArt | discord.gg/theolympus | last update 5/15/22`);
+    setTitle(`Made by ImNotSumer | discord.gg/theolympus | last update 5/15/22`);
     console.clear();
     logo1();
     var req = new XMLHttpRequest();
